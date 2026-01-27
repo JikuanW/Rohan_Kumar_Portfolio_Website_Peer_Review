@@ -23,7 +23,8 @@ The website is deployed using **GitHub Pages**.
 ## Links
 
 * 🌐 **Live Website:**
-  *(placeholder — GitHub Pages URL)*
+  *https://rohannes220.github.io/Rohan_Kumar_Portfolio_Website/*
+ 
 
 * 🎥 **Demo Video:**
   *(placeholder — demo video link)*
@@ -32,7 +33,7 @@ The website is deployed using **GitHub Pages**.
   *(placeholder — presentation slides link)*
 
 * 📐 **Design Document:**
-  *(placeholder — design document link)*
+  *https://docs.google.com/document/d/1i61u7yM7Ck_EsFXeuoc2PBM2dvoCs0Kx9YVFvkQ2Zmo/edit?usp=sharing*
 
 ---
 
