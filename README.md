@@ -13,6 +13,9 @@ The website is deployed using **GitHub Pages**.
 ## Screenshot: 
 <img width="1267" height="777" alt="Screenshot 2026-01-26 at 11 50 46 PM" src="https://github.com/user-attachments/assets/85eb084b-b981-4d29-ba56-c04efdd719a5" />
 
+## Photos 
+
+Images used in this project are sourced from Pexels.com under their free license.
 
 ## Author
 
@@ -31,7 +34,7 @@ The website is deployed using **GitHub Pages**.
  
 
 * 🎥 **Demo Video:**
-  *https://drive.google.com/file/d/12UetirgiB6FuSK4HOvvs7JwRZS1rU8n1/view?usp=sharing*
+ *https://drive.google.com/file/d/1gelZRmiddakUX3WB1pzhICA9LjR4N20T/view?usp=sharing*
 
 * 📊 **Slides:**
   *https://docs.google.com/presentation/d/1A9Mika9iRYuU-P9b4mBBJVjSEgs_X5wnTj4JMwsKpow/edit?usp=sharing*
