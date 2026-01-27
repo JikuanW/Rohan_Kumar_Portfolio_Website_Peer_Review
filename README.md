@@ -10,6 +10,10 @@ The website is deployed using **GitHub Pages**.
 
 ---
 
+## Screenshot: 
+<img width="1267" height="777" alt="Screenshot 2026-01-26 at 11 50 46 PM" src="https://github.com/user-attachments/assets/85eb084b-b981-4d29-ba56-c04efdd719a5" />
+
+
 ## Author
 
 **Name:** Rohan Kumar
