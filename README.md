@@ -27,10 +27,10 @@ The website is deployed using **GitHub Pages**.
  
 
 * 🎥 **Demo Video:**
-  *(placeholder — demo video link)*
+  *https://drive.google.com/file/d/12UetirgiB6FuSK4HOvvs7JwRZS1rU8n1/view?usp=sharing*
 
 * 📊 **Slides:**
-  *(placeholder — presentation slides link)*
+  *https://docs.google.com/presentation/d/1A9Mika9iRYuU-P9b4mBBJVjSEgs_X5wnTj4JMwsKpow/edit?usp=sharing*
 
 * 📐 **Design Document:**
   *https://docs.google.com/document/d/1i61u7yM7Ck_EsFXeuoc2PBM2dvoCs0Kx9YVFvkQ2Zmo/edit?usp=sharing*
