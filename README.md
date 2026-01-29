@@ -78,7 +78,7 @@ All pages share a unified navigation bar and consistent styling.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/rohannes220/Rohan_Kumar_Website.git
+git clone https://github.com/rohannes220/Rohan_Kumar_Portfolio_Website.git
 ```
 
 ### Install dependencies (optional)
